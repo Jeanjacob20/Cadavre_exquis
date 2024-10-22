@@ -1,3 +1,2 @@
-Je Suis le mainteneur 
-
-Je suis toujours le mainteneur
+Je Suis Le Mainteneur 
+Je suis le Développeur
